@@ -18,6 +18,7 @@ then install project dependencies
 ```
 npm i
 ```
+be sure to be on the RGU network  
 then to start the project
 ```
 npm start
