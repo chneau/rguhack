@@ -1,0 +1,28 @@
+{
+  "name": "rguhack",
+  "version": "0.0.1",
+  "description": "A kick starter project for the ais data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chneau/rguhack.git"
+  },
+  "keywords": [
+    "rgu",
+    "ais",
+    "hack"
+  ],
+  "author": "Charles Neau",
+  "bugs": {
+    "url": "https://github.com/chneau/rguhack/issues"
+  },
+  "homepage": "https://github.com/chneau/rguhack#readme",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "moment": "^2.22.0",
+    "mongodb": "^3.0.6"
+  }
+}
