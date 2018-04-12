@@ -32,4 +32,4 @@ inspect the commented code, it could be useful if you're not familiar with [mong
 [moment](http://momentjs.com/) by far the best package to manipulate the time  
 if you're not familiar with git, use [ungit](https://github.com/FredrikNoren/ungit), it's easy to install/multiplatform and the interface actualy makes sense  
 don't hesitate to use jupyter (if you know python/R) to do some data analysis  
-[here](https://github.com/chneau/kaggle-titanic) is a (poor) example of [docker](https://hub.docker.com/r/kaggle/python/) [jupyter python from kaggle](https://github.com/Kaggle/docker-python):  
+[here](https://github.com/chneau/kaggle-titanic) is a (poor) example of [docker](https://hub.docker.com/r/kaggle/python/) [jupyter python from kaggle](https://github.com/Kaggle/docker-python)  
